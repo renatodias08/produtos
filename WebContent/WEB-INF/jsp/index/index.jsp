@@ -3,6 +3,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Controle de Produtos</title>
+
+
+
 </head>
 <body>
 	<h2>Pagina inicial do Sistema de Controle de Produtos</h2>
