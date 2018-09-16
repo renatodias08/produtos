@@ -6,7 +6,6 @@
 </head>
 <body>
 	<h2>Pagina inicial do Sistema de Controle de Produtos</h2>
-
 	<iframe scrolling="no" frameborder="0" marginwidth="0" marginheight="0"
 		width="120" height="170"
 		src="https://selos.climatempo.com.br/selos/MostraSelo120.php?
